@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475528068861",
+    "project_id": "personadd-c023e",
+    "storage_bucket": "personadd-c023e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475528068861:android:7558c4a97aeb92594dc894",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUjWKHvrQppXRc3pvIxS4K47tTlS3KIV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
